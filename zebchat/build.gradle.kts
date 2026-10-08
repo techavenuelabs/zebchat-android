@@ -103,9 +103,9 @@ publishing {
                     }
                 }
                 scm {
-                    url.set("https://github.com/gossdhosting/zebchat-android")
-                    connection.set("scm:git:https://github.com/gossdhosting/zebchat-android.git")
-                    developerConnection.set("scm:git:ssh://git@github.com/gossdhosting/zebchat-android.git")
+                    url.set("https://github.com/techavenuelabs/zebchat-android")
+                    connection.set("scm:git:https://github.com/techavenuelabs/zebchat-android.git")
+                    developerConnection.set("scm:git:ssh://git@github.com/techavenuelabs/zebchat-android.git")
                 }
             }
         }

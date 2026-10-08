@@ -9,3 +9,4 @@ captures/
 .cxx/
 # Firebase config for the sample (optional, never committed).
 sample/google-services.json
+zebchat-android/

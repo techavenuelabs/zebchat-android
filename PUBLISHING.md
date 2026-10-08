@@ -62,5 +62,5 @@ their CI resolve the SDK this way until it is on Maven Central.
 
 ## Public mirror
 
-The POM's SCM points at the public repo https://github.com/gossdhosting/zebchat-android, a copy
+The POM's SCM points at the public repo https://github.com/techavenuelabs/zebchat-android, a copy
 of `sdks/android` (MIT, `LICENSE`). Refresh it on each release and tag it `v<version>`.
