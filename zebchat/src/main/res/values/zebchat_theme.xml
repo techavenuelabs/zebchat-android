@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="zebchat_background">#FFFFFFFF</color>
+    <color name="zebchat_text">#FF1F2933</color>
+
+    <style name="ZebChat.Theme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/zebchat_background</item>
+        <item name="android:colorAccent">#FF2563EB</item>
+    </style>
+</resources>

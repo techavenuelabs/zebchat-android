@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Host decisions, not the SDK's: chat notifications (Android 13+) and photo capture. -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+
+    <!-- The SDK's backup rules keep the visitor session out of backups (README, "Backups"). -->
+    <application
+        android:name=".SampleApp"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/zebchat_data_extraction_rules"
+        android:fullBackupContent="@xml/zebchat_backup_rules"
+        android:icon="@android:drawable/sym_action_chat"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:theme="@android:style/Theme.Material.Light.DarkActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

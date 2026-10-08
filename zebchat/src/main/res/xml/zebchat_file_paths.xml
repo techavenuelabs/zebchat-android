@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Photos taken from the chat's file chooser (deleted when no longer needed). -->
+    <cache-path name="zebchat_camera" path="zebchat_camera/" />
+</paths>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zebchat_channel_name">رسائل الدردشة</string>
+    <string name="zebchat_channel_description">ردود فريق الدعم</string>
+    <string name="zebchat_notification_default_body">رسالة جديدة</string>
+    <string name="zebchat_error_title">الدردشة غير متاحة</string>
+    <string name="zebchat_error_body">تحقق من اتصالك وحاول مرة أخرى.</string>
+    <string name="zebchat_error_refused">الدردشة غير متاحة في هذا التطبيق حاليًا.</string>
+    <string name="zebchat_retry">إعادة المحاولة</string>
+    <string name="zebchat_close">إغلاق</string>
+    <string name="zebchat_choose_file">اختر ملفًا</string>
+    <string name="zebchat_download_started">جارٍ التنزيل…</string>
+</resources>

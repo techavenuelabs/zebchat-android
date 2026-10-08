@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zebchat_channel_name">चैट संदेश</string>
+    <string name="zebchat_channel_description">सहायता टीम के जवाब</string>
+    <string name="zebchat_notification_default_body">नया संदेश</string>
+    <string name="zebchat_error_title">चैट उपलब्ध नहीं है</string>
+    <string name="zebchat_error_body">अपना कनेक्शन जाँचें और फिर से कोशिश करें।</string>
+    <string name="zebchat_error_refused">यह चैट अभी इस ऐप में उपलब्ध नहीं है।</string>
+    <string name="zebchat_retry">फिर से कोशिश करें</string>
+    <string name="zebchat_close">बंद करें</string>
+    <string name="zebchat_choose_file">फ़ाइल चुनें</string>
+    <string name="zebchat_download_started">डाउनलोड हो रहा है…</string>
+</resources>

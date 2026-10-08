@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ZebChat Sample</string>
+    <string name="open_chat">Open chat</string>
+    <string name="open_chat_unread">Open chat (%1$d unread)</string>
+    <string name="screens_title">Screen views</string>
+    <string name="screen_home">Track \"Home\"</string>
+    <string name="screen_product">Track \"Product/Sneakers\"</string>
+    <string name="screen_checkout">Track \"Checkout\"</string>
+    <string name="user_title">Your user (setUser)</string>
+    <string name="user_id">User id</string>
+    <string name="user_name">Name</string>
+    <string name="user_email">Email</string>
+    <string name="user_hash">Hash: HMAC-SHA256(identity secret, id), from your server</string>
+    <string name="set_user">Set user</string>
+    <string name="logout">Log out</string>
+    <string name="permissions">Allow notifications and camera</string>
+    <string name="language_fr">Chat in French next time</string>
+    <string name="firebase_note">Push: this sample has no Firebase. Wire your FirebaseMessagingService as in README.md (setPushToken, showNotification, handleNotificationTap).</string>
+</resources>

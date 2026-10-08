@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override any of these in your app to change the wording. -->
+    <string name="zebchat_channel_name">Chat messages</string>
+    <string name="zebchat_channel_description">Replies from the support team</string>
+    <string name="zebchat_notification_default_body">New message</string>
+    <string name="zebchat_error_title">Chat unavailable</string>
+    <string name="zebchat_error_body">Check your connection and try again.</string>
+    <string name="zebchat_error_refused">This chat is not available in this app right now.</string>
+    <string name="zebchat_retry">Retry</string>
+    <string name="zebchat_close">Close</string>
+    <string name="zebchat_choose_file">Choose a file</string>
+    <string name="zebchat_download_started">Downloading…</string>
+</resources>

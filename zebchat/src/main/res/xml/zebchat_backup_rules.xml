@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Auto Backup rules (Android 6-11) that keep the ZebChat visitor session out of backups.
+  Use as android:fullBackupContent="@xml/zebchat_backup_rules" when your app has no rules of its
+  own; otherwise copy the exclude line into yours. See README.md, "Backups".
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="com.zebchat.chat.xml" />
+</full-backup-content>

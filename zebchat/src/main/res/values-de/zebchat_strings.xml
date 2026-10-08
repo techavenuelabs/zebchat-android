@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zebchat_channel_name">Chat-Nachrichten</string>
+    <string name="zebchat_channel_description">Antworten des Support-Teams</string>
+    <string name="zebchat_notification_default_body">Neue Nachricht</string>
+    <string name="zebchat_error_title">Chat nicht verfügbar</string>
+    <string name="zebchat_error_body">Prüfe deine Verbindung und versuche es erneut.</string>
+    <string name="zebchat_error_refused">Der Chat ist in dieser App gerade nicht verfügbar.</string>
+    <string name="zebchat_retry">Erneut versuchen</string>
+    <string name="zebchat_close">Schließen</string>
+    <string name="zebchat_choose_file">Datei auswählen</string>
+    <string name="zebchat_download_started">Wird heruntergeladen…</string>
+</resources>
